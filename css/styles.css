@@ -1,0 +1,95 @@
+:root {
+  --primary-text-color: #757575;
+  --title-color: #212121;
+  --accent-color: #2196f3;
+  --additional-color: #ffffff;
+}
+
+body {
+  color: #757575;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Logo */
+.logo-web {
+  color: var(--accent-color);
+}
+.logo-studio {
+  color: var(--title-color);
+}
+
+/* Header */
+.site-nav .link {
+  color: var(--title-color);
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: var(--accent-color);
+}
+
+.contacts .contact-item {
+  color: var(--primary-text-color);
+}
+
+.contacts .contact-item:hover,
+.contacts .contact-item:focus {
+  color: var(--accent-color);
+}
+
+.hero .hero-title {
+  color: var(--additional-color);
+}
+
+.hero {
+  background-color: #2f303a;
+}
+
+.hero-link {
+  color: var(--additional-color);
+}
+
+/* Our benefits section */
+.benefits-title {
+  color: var(--title-color);
+}
+
+/* What we are doing section */
+
+.examples-title {
+  color: var(--title-color);
+}
+
+/* Our team section */
+
+.employee-title {
+  color: var(--title-color);
+}
+
+.employee-section .employee-name {
+  color: var(--title-color);
+}
+
+/* Footer */
+.footer-contacts {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+footer {
+  background-color: #2f303a;
+}
+.address {
+  color: var(--additional-color);
+}
+
+/* Portfolio */
+
+.projects-title {
+  color: var(--title-color);
+}
+.projects.item {
+  color: var(--primary-text-color);
+}
