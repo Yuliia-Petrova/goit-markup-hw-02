@@ -63,7 +63,7 @@ body {
   color: var(--accent-color);
 }
 
-.contacts .contact-item {
+.contact-item {
   color: var(--primary-text-color);
   font-weight: 500;
   font-size: 14px;
@@ -73,7 +73,7 @@ body {
 }
 
 /* Hero */
-.hero .hero-title {
+.hero-title {
   color: var(--additional-color);
   font-weight: 900;
   font-size: 44px;
@@ -113,7 +113,7 @@ body {
   line-height: 1.17;
 }
 
-.benefits-section .benefits-title {
+.benefits-title {
   color: var(--title-color);
   font-weight: 700;
   font-size: 14px;
@@ -121,7 +121,7 @@ body {
   text-transform: uppercase;
 }
 
-.benefits-section .benefits-text {
+.benefits-text {
   font-size: 14px;
   line-height: 1.71;
 }
@@ -132,14 +132,14 @@ body {
   background-color: var(--primary-bg-color);
 }
 
-.employee-list .employee-name {
+.employee-name {
   color: var(--title-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
 }
 
-.employee-list .employee-position {
+.employee-position {
   font-size: 16px;
   line-height: 1.19;
 }
